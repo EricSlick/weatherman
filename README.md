@@ -32,7 +32,7 @@ This is a rough estimation of time and work done for each day I worked on this p
 sick with a cold, so it was done in small spurts.
 
 **12/10**
-* time: 
+* time: 30 minutes
 * initial setup
 * copy over Weather Vane repo logic for accessing visual crossing
 * create Locations controller model
